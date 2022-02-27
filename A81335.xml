@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief discourse proving independency, in church-government, destructive to the positive lawes of this kingdome, and inconsistent therewith. By Robert Derham, of Grayes Inne, Barrister. Published according to order.</title>
+            <author>Derham, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81335</idno>
+            <idno type="STC">Wing D1096</idno>
+            <idno type="STC">Thomason E344_10</idno>
+            <idno type="STC">ESTC R200959</idno>
+            <idno type="EEBO-CITATION">99861567</idno>
+            <idno type="PROQUEST">99861567</idno>
+            <idno type="VID">113705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113705)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 56:E344[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief discourse proving independency, in church-government, destructive to the positive lawes of this kingdome, and inconsistent therewith. By Robert Derham, of Grayes Inne, Barrister. Published according to order.</title>
+                  <author>Derham, Robert.</author>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bates, at the Maidenhead on Snow-hill, neere Holborne Conduit.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 13th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Congregationalism --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113705:1"/>
+            <pb facs="tcp:113705:1" rendition="simple:additions"/>
+            <p>A BRIEF DISCOURSE, PROVING <hi>JNDEPENDENCY,</hi> IN Church-Government, Deſtructive to the Poſitive Lawes of this KINGDOME, and inconſiſtent therewith.</p>
+            <p>By <hi>ROBERT DERHAM,</hi> of Grayes Jnne, Barriſter.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <add>July 13<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed for <hi>Thomas Bates,</hi> at the Maidenhead on Snow-hill, neere Holborne Conduit. 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:113705:2"/>
+            <pb facs="tcp:113705:2"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>F thou beeſt Jndependent in thy opinion, yet (J hope) thou art not an e<g ref="char:EOLhyphen"/>nemy to the Lawes of this Kingdome, which are thy Birthright, as well as thy Poſſeſsions: Peruſe this Work without paſsion or partiality; ſee if thy tender affections will ſuffer thee to divide the Child, J meane, the <hi>Temporall,</hi> and <hi>Eccleſia<g ref="char:EOLhyphen"/>ſticall Iuriſdiction,</hi> which if done, muſt needs prove deſtructive and fatall to both.</p>
+            <p>They are Twinnes, lovingly imbra<g ref="char:EOLhyphen"/>cing
+<pb facs="tcp:113705:3"/>
+each other; ſeeke not thou to ſever this unity: they are acquainted with each others wants and defects, having ſuch ſweet intercourſe the one with the other in legall proceedings: indeavour not thou by eſtranging them the one from the other, to endanger the ruine of both, leſt thou unhappily prove not onely a Pa<g ref="char:EOLhyphen"/>tricide, but <hi>Occiſor Patriae.</hi> J will ſay no more, but commit thee to God and his goodneſſe.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113705:3"/>
+            <head>A briefe Diſcourſe, PROVING <hi>JNDEPENDENCY IN</hi> CHURCH-GOVERNMENT Deſtructive to the <hi>Poſitive Lawes of this Kingdome, and inconſistent therewith.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſubject that I intend to debate at this time, is not, whether Presbyteriall or Independent Government in the Church ſimply of themſelves conſide<g ref="char:EOLhyphen"/>red, bee moſt warrantable by divine Authority, but how they ſtand with relation to the Lawes of this King<g ref="char:EOLhyphen"/>dome, for that ſhall be the compaſſe of my thoughts at this time; wherein I ſhall not labour to juſtifie the Lawes of this Realm by the ſacred Rule expreſly,
+<pb n="2" facs="tcp:113705:4"/>
+for ſurely ſome of them<note place="margin">
+                  <hi>Con<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>vall to the people of this Nation, ſo as it cannot poſsibly be ruled by any other Law, being Cuſtomes made by themſelves, <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Prince being the Low-giver, many Statut<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, eſpecially in this Diſcourſe mentioned, being declaratory of theſe Cuſtomes, ſworne to by Kings and People; An<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thema on them pro<g ref="char:EOLhyphen"/>nounced that ſeeke to alter any of the funda<g ref="char:EOLhyphen"/>mentall Cuſtomes or Laws,</hi> Premunire, <hi>high Treaſon by Law.</hi>
+               </note> or the moſt are <hi>praeter Scripturas,</hi> not <hi>Contra,</hi> they being laudable con<g ref="char:EOLhyphen"/>ſtitutions generally re<g ref="char:EOLhyphen"/>ceived, yea, allowed by Gods Word <hi>implicitè,</hi> though not <hi>explicitè:</hi> ſo that they may be incon<g ref="char:EOLhyphen"/>ſiſtent with the Independent Government in the Church ſo much now contended for, (although we ſhould admit the ſaid juriſdiction warranted by Holy Writ) and yet no blemiſh to the Civill Magiſtracy. Come wee then to the point, What ſay the poſitive Laws, which are the common Law, or Statutes?</p>
+            <p>The common Law and Statute in this particular, appear in the Act of 1. <hi>Elizabeth</hi> 1. for that Act is but declaratory of the ancient common Law, as it was reſoved in <hi>Cawdries</hi> Caſe by all the Judges of England, not of any new Law in<g ref="char:EOLhyphen"/>troductive, The words of that Statute are, <hi>That ſuch Juriſ<g ref="char:EOLhyphen"/>diction eccleſiaſticall, as by any ſpirituall or eccleſiaſticall power hath heretofore been, or may be lawfully exerciſed, for the viſita<g ref="char:EOLhyphen"/>tion</hi>
+               <note place="margin">
+                  <hi>The Kings Lawes limit and bound the Eccleſiaſticall juriſdiction.</hi> 5. E<g ref="char:EOLhyphen"/>liz. 23. <hi>Co. Iuriſd. of Courts,</hi> 321.</note> 
+               <hi>of the eccleſiaſticall Eſtate &amp; Perſons, and for Reformation, Order, and Correction of the ſame, and of all manner of Errors, Hereſies, Schiſms, abuſes, Offences, Contempts and Enormities, ſhall for ever be united and annexed to the imperiall Crowne of this Realme: and that her Highneſſe, her heirs and Succeſ<g ref="char:EOLhyphen"/>ſours, ſhall have power to nominate Commiſſioners to exerciſe all Juriſdiction ecceſiaſticall in the cauſes before-named &amp;c.</hi> So that although the high Commiſſion (grounded upon this Act) be taken away, yet the Juriſdiction ſtill remaineth in the imperiall Crowne, to be diſpenſed in theſe cauſes be<g ref="char:EOLhyphen"/>fore named, as the ancient Law of this Land, alſo in all o<g ref="char:EOLhyphen"/>ther cauſes Eccleſiaſticall, the King by his Eccleſiaſticall Jud<g ref="char:EOLhyphen"/>ges miniſtreth juſtice, wherein if a man be injured in any Court, he may have redreſſe, by Appeale to a higher Juriſ<g ref="char:EOLhyphen"/>diction, and for default of Juſtice in the Eccleſiaſticall
+<pb n="3" facs="tcp:113705:4"/>
+Courts, laſt of all to the King, as ſupreme, in his High Court of Chancery, as appeareth by the Act of 25. <hi>H.</hi> 8. cap. 19.</p>
+            <p>See here juſtice ſubordimately miniſtred, and the King or civill Magiſtrate in all Cauſes Eccleſiaſticall ſupreme in point of Juriſdiction.</p>
+            <p>Now that the Independent Government in the Church takes away all<note n="*" place="margin">In civill cauſes as well as others, un<g ref="char:EOLhyphen"/>till the offendor be caſt out of the Church, and then you may appeale to the civill Magi<g ref="char:EOLhyphen"/>ſtrate, not before; in matters of per<g ref="char:EOLhyphen"/>ſonall injury onely, not in matter of ſcandall.</note>Appeals in matters pertaining to their cog<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>izance, I ſuppoſe needeth no proofe at all, it is ſo clear: Their very title and name intimates as much, they are In<g ref="char:EOLhyphen"/>dependent, <hi>viz.</hi> they depend upon no other Court of Ju<g ref="char:EOLhyphen"/>ſtice, to give account of their Actions judicially by Appeal or otherwiſe. They ſtand not at <hi>Caeſars</hi> Judgement-ſeat, that is, the temporall Magiſtracy, they are like the great Potentates of the Earth, accountable to none but God, in caſe injuſtice be found in their judgements; if in their wiſ<g ref="char:EOLhyphen"/>domes errour appeare (as <hi>Humanum eſt errare</hi>) you may fill<note place="margin">
+                  <hi>Iuſtification of In<g ref="char:EOLhyphen"/>dependency by</hi> Chidley.</note> the skies with complaints bootleſſe. If any ſhall be cenſu<g ref="char:EOLhyphen"/>red in their Judicatories, for prophanation of the Sabboth, by working on that day, tipling in Ale-houſes, or the like, if he be injured, he cannot have juſtice elſewhere, whereas the Eccleſiaſticall and Statute Law in thoſe caſes give Ap<g ref="char:EOLhyphen"/>peale, as appeares by 25. <hi>H.</hi> 8. before mentioned, 4. <hi>Jacob. 5. 3. Caroli</hi> 1. In all which caſes, if he be proceeded againſt by Cenſure Eccleſiaſticall, or Temporall, he hath remedy by Appeale, errour, or other legall courſe to right himſelfe if injured.</p>
+            <p>If in Doctrine or Diſcipline, this Independent Gover<g ref="char:EOLhyphen"/>nour with his Aſſiſtants ſhall be hereticall, erroneous, or ſcandalous to the Government, or any particular perſon<g ref="char:punc">▪</g> no remedy, but as it is truly ſaid of the Divine Majeſtie, <hi>Con<g ref="char:EOLhyphen"/>fugiendum à Domino i<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to ad Dominu<g ref="char:cmbAbbrStroke">̄</g> placatum.</hi> Whereas by 2. <hi>H. 4. 15. 13. Eliz.</hi> 12. he is to be cenſured for hereſie by the Biſhop of the Dioceſſe, and to be delivered to the ſe<g ref="char:EOLhyphen"/>cular power to be burned. And if he ſhall maintaine any Doctrine contrary, or repugnant to the Articles of the Church of England, and peniſt therein, he is to be depri<g ref="char:EOLhyphen"/>ved
+<pb n="4" facs="tcp:113705:5"/>
+of all his Eccleſiaſticall promotions, and further to be puniſhed by the Eccleſiaſticall Law, as appeares by 13. <hi>Eliz.</hi> aforeſaid.</p>
+            <p>If he ſhall preach any Doctrine ſcandalous to the Civil Government, he may be indicted at Common Law, and puniſhed according to the quality of the Crime: In all which caſes, there lyeth remedy by Error, or Appeale.</p>
+            <p>See now, at one view, how many Lawes are nullified by this ſtrange and unheard of power, I might inſtance unto<note place="margin">See C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vvd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies caſe, where they are recited.</note> you throughout all matters, of which the Eccleſiaſticall Ju<g ref="char:EOLhyphen"/>riſdiction hath cognizance, Ancient, or Moderne, the ſame miſchiefs follow; no Appeal, no Redreſſe.</p>
+            <p>Beſides the Common Law and Statutes many and nume<g ref="char:EOLhyphen"/>rous depending upon the Eccleſiaſticall Law, corroborating, ſtrengthening, or aſſiſting, woven and interlaced with them, are all at one blow cut off, and deſtroyed.</p>
+            <p>Alſo the Common Law Courts (<hi>à fortiori,</hi> then the High Court of Parliament) have ſupreme Power in moderating the exorbitancies of the Spirituall Juriſdiction, if the Spi<g ref="char:EOLhyphen"/>rituall Courts incroach upon the Common Law, yea upon one another, (as it hath been too familiar of late times eſ<g ref="char:EOLhyphen"/>pecially)<note place="margin">See before, he is free in all caſes, ſo long as he conti<g ref="char:EOLhyphen"/>nues in the bro<g ref="char:EOLhyphen"/>therhood.</note> the Kings-Bench, or Common Pleas, by prohibi<g ref="char:EOLhyphen"/>tion, have power to curb, and reſtrain them, although the Common Law holdeth no Plea of them.</p>
+            <p>I need not to give you ſome examples, the Law is ſo plentifull herein: I believe Independency frees from the<note place="margin">If they will not caſt out of their Society a hainou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> offender againſt the lawes, what reme<g ref="char:EOLhyphen"/>dy?</note> Power of the Civill Magiſtrate in Matters, <hi>Coram non Ju<g ref="char:EOLhyphen"/>dice,</hi> as the Law ſaith, as well as in Cauſes, within their cognizance.</p>
+            <p>But peradventure it may be objected, their Power ſhall bee regulated, their Juriſdiction ſhall be knowne, and if<note place="margin">Vpon the point they will aſſume all d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpenſati<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of ju<g ref="char:EOLunhyphen"/>ſtice in all caſes to themſelves, and the civill Magiſtracy ſhall be contempti<g ref="char:EOLhyphen"/>ble.</note> they exceed their limits, they ſhall be under Cenſure of the Law.</p>
+            <p>If this ſhould be admitted, (which how true it may be I know not) yet in cauſes pertaining unto them, it will not be ſo, they will grant no dependency upon the Temporall State in matters Eccleſiaſticall; the Common Law nor Par<g ref="char:EOLhyphen"/>liament
+<pb n="5" facs="tcp:113705:5"/>
+ſhall have nothing to do with their judge<g ref="char:EOLhyphen"/>ments, which ſupreme Power hath been by great Antiquity inveſted both in the Common Law, and in the High Court of Parliament; yea, al<g ref="char:EOLhyphen"/>though in things pertaining to ſpirituall Juriſdi<g ref="char:EOLhyphen"/>ction, and the ground of this, you ſhall ſee pre<g ref="char:EOLhyphen"/>ſently.</p>
+            <p>I will cite you but two Statutes, by which you<note place="margin">See the pr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mble of the ſaid Act of 21. H. 8. Parlia<g ref="char:EOLhyphen"/>ments have power not onely to diſ<g ref="char:EOLhyphen"/>penſe, but to abro<g ref="char:EOLhyphen"/>gate, adnull, am<g ref="char:EOLhyphen"/>plifie or di<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ſh all human<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Eccleſiaſti<g ref="char:EOLhyphen"/>call, or Temporall lawes, by naturall equity and good reaſon.</note> ſhall perceive that both in Doctrine and Diſci<g ref="char:EOLhyphen"/>pline in the Church, the ſupreme Power hath reſt<g ref="char:EOLhyphen"/>ed in the civill Magiſtrate, and doth ſo continue to this day: the one is 25. <hi>H.</hi> 8. 21. granting the Parliament power to enact any thing not repug<g ref="char:EOLhyphen"/>nant to Holy Writ, yea even in matters of Faith, and Doctrine in the Church, alſo note the words of this Act further, viz.</p>
+            <p>
+               <q>
+                  <hi>Not minding to ſeeke for any reliefes, ſuc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ours, or</hi>
+                  <note place="margin">Nota.</note> 
+                  <hi>remedies for any wordly things and humane Laws, in any cauſe of neceſsity, but within this Realme, at the hands of your Highneſſe, your Heires, and Succeſſours Kings of this Realme, which have, and ought to have an imperiall Power and Authority in the ſame, and not obliged in any worldly cauſes to any other Superiour.</hi>
+               </q>
+            </p>
+            <p>Where obſerve the largeneſſe of the words, (<hi>Humane Lawes</hi>) comprizing whatſoever in Do<g ref="char:EOLhyphen"/>ctrine not repugnant to Scripture, or Diſcipline, for the Government of the Church, by the King, and his great Councell, the Parliament, ſhall bee judged expedient; as you may ſee in another branch of this Act immediately fore-going it muſt be intended, <hi>(The King) viz.</hi> in his politike
+<pb n="6" facs="tcp:113705:6"/>
+capacity conj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yned, and united with his High<note place="margin">What will become of independent Sy<g ref="char:EOLhyphen"/>nods, if no Synod be to be called but by the civill power?</note> Court of Parliament, for ſo are the expreſſe words of that branch, giving the King Power with the Nobles and Subjects, and ſo muſt of neceſſity the ſecond branch be interpreted; the other Act is 25. <hi>H.</hi> 8. 19. enacting no Conſtitutions Eccleſiaſticall of force, or to be of force, without the royal aſſent;<note place="margin">None to be made in fut. without leaue.</note> and that none be executed repugnant to the Lawes of this Realme,</p>
+            <p>What now becomes of this Independent-Go<g ref="char:EOLhyphen"/>vernment,<note place="margin">Thoſe already made to be peruſed by the Parliament.</note> if it be contrary to the Lawes of this Realme, (as it is manifeſt it is) unleſſe you de<g ref="char:EOLhyphen"/>ſtroy<note place="margin">
+                  <hi>Co. Iuriſd. of Co. tit.</hi> Convocation.</note> the Kings Eccleſiaſticall or Temporall, or Civill Lawes, yea the great mulcts added by the Lawes of this Land, by way of aſſiſtance, or cor<g ref="char:EOLhyphen"/>robation to many ſpirituall offences by fine, and impriſonment, death, &amp;c. <hi>ut poena ad paucos, metus ad omnes perveniat;</hi> wholly loſt, and taken away by this new frame of Government; for ſure this Independent State will never demand that Power, ſince no Eccleſiaſticall Juriſdiction ever of right enjoyed it: I meane the Power to fine, and impri<g ref="char:EOLhyphen"/>ſon, onely Power of impriſonment granted to Bi<g ref="char:EOLhyphen"/>ſhops, and others, having Epiſcopall Juriſdiction, and that of Prieſts only, but ſtill the power of Ap<g ref="char:EOLhyphen"/>peal ſaved by 1. <hi>H.</hi> 7. 4.</p>
+            <p>What will alſo become of their power of Ex<g ref="char:EOLhyphen"/>communication, <hi>Major</hi> or <hi>Minor,</hi> unles they crave aid of the Civill Magiſtrate, to have a Writ of <hi>Ex<g ref="char:EOLhyphen"/>communicato Capiendo,</hi> who will regard their ex<g ref="char:EOLhyphen"/>communication, it will be but contemptible with<g ref="char:EOLhyphen"/>out
+<pb n="7" facs="tcp:113705:6"/>
+the Lawes of this Realme, to aid and aſſiſt them: Thus you ſee they enervate halfe the Laws of this Kingdome, yea their owne ſtrength, as for<g ref="char:EOLhyphen"/>merly I have ſhewed you by this Anarchy, as I may term it.</p>
+            <p>They make their owne power deſpicable, being they ſeeke to abrogate thoſe Lawes which do and muſt ſtrengthen and aſſiſt their Juriſdiction, unleſſe you will ſay they ſhall have that vaſt Power of fine and impriſonment before-mentioned, which ſurely will never be granted unto them; for that were <hi>Miſera Servitus,</hi> that a mans body ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uld rot peradventure with impriſonment, his <hi>Salvo Con<g ref="char:EOLhyphen"/>tenemeno</hi> mentioned in the Laws of this Land ſo often, deſtroyed; and yet no <hi>Habeas Corpus,</hi> the precious liberty of the Subject, in courſe of Ju<g ref="char:EOLhyphen"/>ſtice, to be obtained, nor any prohibition or legall proceedings, to rectifie theſe enormities: The Turkiſh tyranny were as tolerable.</p>
+            <p>Thus I hope I have plainely proved the Eccle<g ref="char:EOLhyphen"/>ſiaſticall State muſt in all things be (in Doctrine and Diſcipline) ſubordinate to the Civill Govern<g ref="char:EOLhyphen"/>ment, as before is ſpecified, or elſe you nullifie and deſtroy the Lawes and Statutes of this King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>It remainoth now to ſhow you the reaſon why Parliaments of this Land have alwayes exerciſed this ſupreme Power over the Eccleſiaſticall State, one reaſon was, I conceive, becauſe the Civill Law which concerneth much the Eccleſiaſticall Juriſdiction here eſtabliſhed, uſed the ſame power
+<pb n="8" facs="tcp:113705:7"/>
+in the time of the Roman Emperours, both before and after they had received the Chriſtian Faith, for the ſpace of three hundred yeares after Chriſt, and the diſtinction of ſpirituall and temporall cau<g ref="char:EOLhyphen"/>ſes in point of Juriſdiction was not then known, but all Power was in the Civill Magiſtrate. But afterwards out of a zeale they had to grace and<note place="margin">
+                  <hi>Se<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Ridley <hi>in his view,</hi> 115, 116, 117.</note> honour the godly, and learned Biſhops of that time, they were pleaſed to ſingle out certaine ſpe<g ref="char:EOLhyphen"/>ciall cauſes, wherein they granted Juriſdiction unto the Biſhops, namely in caſes of Tithes, be<g ref="char:EOLhyphen"/>cauſe they were paid to men of the Church: in cauſes of Matrimony, becauſe Marriages were for the moſt part ſolemnized in the Church; in cau<g ref="char:EOLhyphen"/>ſes Teſtamentary, becauſe Teſtaments were many times made <hi>in extremis,</hi> when Church-men were preſent, and therefore they were thought the fit<g ref="char:EOLhyphen"/>teſt perſons to take the probate of ſuch Teſta<g ref="char:EOLhyphen"/>ments.</p>
+            <p>Howbeit theſe Biſhops did not proceed in theſe cauſes according to the Canons and Decrees of the Church (for the Canon Law was not then hatched or dreamt of) but according to the Rules of the imperiall Law, as the Civill Magiſtrate did proceeed in other cauſes, neither did the Em<g ref="char:EOLhyphen"/>perours in giving this Juriſdiction unto them give away their owne ſupreme, and abſolute power to correct, and puniſh the Judges as well as others, if they performed not their ſeverall duties. This then is moſt certain, that the Primitive Juriſdicti<g ref="char:EOLhyphen"/>on in all theſe cauſes was in the civill Magiſtrate,
+<pb n="9" facs="tcp:113705:7"/>
+and ſo in right it remaineth at this day: and though it be derived from him, it remaineth in him as a Fountaine: for, every Chriſtian Monarch, as well as the godly Kings of Juda, is <hi>Cuſtos utri<g ref="char:EOLhyphen"/>uſque Tabulae,</hi> and conſequently hath power to pu<g ref="char:EOLhyphen"/>niſh, not onely Treaſon, Murder, Theft, and all manner of force and fraud, but alſo Inceſt, Adul<g ref="char:EOLhyphen"/>tery, Perjury, Uſury, Symony, Sorcerie, Idola<g ref="char:EOLhyphen"/>try, Blaſphemy; neither are theſe cauſes, in re<g ref="char:EOLhyphen"/>ſpect of their owne quality or nature, to be diſtin<g ref="char:EOLhyphen"/>guiſhed one from another by the names of Spiri<g ref="char:EOLhyphen"/>tuall, or Temporall: For, why is Adultery a ſpi<g ref="char:EOLhyphen"/>rituall cauſe rather then Murder, when they are both offences againſt the ſecond Table? or Ido<g ref="char:EOLhyphen"/>latry rather then Perjury, being both offences a<g ref="char:EOLhyphen"/>gainſt the firſt Table? And truly, they were not ſo called from the nature of the Cauſes, but from the quality of the Perſons, viz. The Clergy be<g ref="char:EOLhyphen"/>ing men intended to live <hi>ſecundum Spiritum,</hi> whom the Prince made his ſubordinate Judge in theſe Cauſes; and this diſtinction of Temporall and Spirituall Cauſes began firſt in the Church of<note place="margin">Nota.</note> Rome, where the Clergy having (by this Juriſdi<g ref="char:EOLhyphen"/>ction) got great wealth, their wealth begot pride, their pride ingratitude towards Princes who firſt gave them their Juriſdiction, and then, according to the nature of all ungratefull perſons, they went about to extinguiſh the memory of the benefit; for, whereas their Juriſdiction was firſt derived from <hi>Caeſar,</hi> in the execution where of they were <hi>Caeſars</hi> Judges, ſo as both their Courts and
+<pb n="10" facs="tcp:113705:8"/>
+Cauſes ought ſtill to have born <hi>Caeſars</hi> Image and Superſcription, as belonging unto <hi>Caeſar,</hi> they blotted <hi>Cae<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ars</hi> name out of the Stile of their Courts, and called them Courts Chriſtian, as if the Courts holden by other Magiſtrates, had been b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Courts of Ethnicks, in compariſon; and the Cauſes which were meerly Civill in their nature, they called Spirituall, or Eccleſiaſticall; ſo as, if the Emperours ſhould againe challenge their Courts and Cauſes, and ſay, <hi>Reddite Caeſari qua ſunt Caeſaris,</hi> they would all cry out on the other part, and ſay, <hi>Date Deo quae ſunt Dei.</hi> Our Courts beare the Name and Title of Chriſt, the Super<g ref="char:EOLhyphen"/>ſcription of Caeſar is quite worne out, and not to be found upon them: And this point of their po<g ref="char:EOLhyphen"/>licy is worth the obſerving, That when they found their Juriſdiction in Matrimoniall Cauſes to be moſt ſweet, and gainfull of all other, (for, of Ma<g ref="char:EOLhyphen"/>trimoney they made matter of Money indeed) to the end, that Caeſar might never reſume ſo rich a perquiſite of their Spirituall Juriſdiction, they reduced it into the number of the ſeven Sacra<g ref="char:EOLhyphen"/>ments: After which time it had been Sacriledge, if the Civill Magiſtrate had intermedled with the leaſt matters that had relation to Matrimony, or a<g ref="char:EOLhyphen"/>nie dependency thereupon. <hi>Hac ille.</hi>
+            </p>
+            <p>Thus you ſee the power of the Civill Magi<g ref="char:EOLhyphen"/>ſtrate ſupreme over the Eccleſiaſticall State, and ſome grounds and reaſons of it cleered, many o<g ref="char:EOLhyphen"/>ther might be given, but I think I have ſaid e<g ref="char:EOLhyphen"/>nough.</p>
+            <p>
+               <pb n="11" facs="tcp:113705:8"/>Now to draw to con<g ref="char:EOLhyphen"/>cluſion.<note place="margin">They exempt not onely the Clergie, but all the brotherhood, not onely in criminall caſes, but in civill alſo, untill be be caſt out of the ſociety or brotherhood Thus you ſee they ex<g ref="char:EOLhyphen"/>ceed the Romiſh Church.</note> Indeed (as to me it ſeemeth) this Indepen<g ref="char:EOLhyphen"/>dent Government in the Church is derived from<note place="margin">
+                  <hi>Note.</hi> They will erect ten thouſand Indicatories in England, and as many Doctrines, whereas the Do<g ref="char:EOLhyphen"/>ctrine of the Church of England ought to be one and the ſame, 21 H. 8. 21. 13. Eliz. 12.</note> the Church of Rome, who have alwaies in all a<g ref="char:EOLhyphen"/>ges laid this as the foun<g ref="char:EOLhyphen"/>dation of their pride, where they have prevailed, to exempt the Church and Clergie from ſecular power, attempted in England, even of late times, in the time of King <hi>Henry</hi> the eighth, by the Clergie here in matters criminall, as appeareth in the legall reports of <hi>Ke<g ref="char:EOLhyphen"/>loway,</hi> and in the times of other Kings practiſed more ancient, as <hi>Henry</hi> the third, and others.</p>
+            <p>Thus briefly <hi>liberavi animam meam,</hi> let every man uſe his liberty in cenſure, <hi>Utere tuo judicio, ni<g ref="char:EOLhyphen"/>hil enim impedio.</hi> My wiſh is, that they which ſit in the high places would well weigh the premiſes, and do that which is conſiſtent with this Govern<g ref="char:EOLhyphen"/>ment, whoſe proceedings we pray may be proſpe<g ref="char:EOLhyphen"/>rous; yea we wiſh unto them good luck in the name of the Lord.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
